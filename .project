@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>bankmanagmentsystem</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/image/atm.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Anshu Jain/Downloads/atm.jpg</location>
+		</link>
+		<link>
+			<name>src/image/logo.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Anshu Jain/Downloads/logo.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
